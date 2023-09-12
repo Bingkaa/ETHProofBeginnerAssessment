@@ -9,5 +9,5 @@ The program includes creating a coin and keeping track of its value, as well as 
 
 ## Authors
 
-Bianca H. Goldman
+Bianca Goldman
 :)
